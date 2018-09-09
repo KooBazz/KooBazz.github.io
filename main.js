@@ -74,8 +74,8 @@ var AppComponent = /** @class */ (function () {
     function AppComponent(matIconRegistry, domSanitizer) {
         this.matIconRegistry = matIconRegistry;
         this.domSanitizer = domSanitizer;
-        this.title = 'app';
-        this.GAME_LENGTH = 2;
+        this.title = 'Handy';
+        this.GAME_LENGTH = 12;
         this.barva = '';
         this.hodnota = '';
         this.karty = [];
